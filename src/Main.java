@@ -8,7 +8,7 @@ public class Main {
         int b = readInput.nextInt();
         readInput.close();
 
-        System.out.println("The sumb of a and b is= " +Integer.sum(a,b));
+        System.out.println("The sum of a and b is= " +Integer.sum(a,b));
     }
 
 }
